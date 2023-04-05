@@ -1,0 +1,1 @@
+/workspaces/JvmStaticBug/build/classes/java/main/Main.class:/workspaces/JvmStaticBug/build/classes/kotlin/main/MainKt.class:/workspaces/JvmStaticBug/build/classes/kotlin/main/SingletonClassExample.class
